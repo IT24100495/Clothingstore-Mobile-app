@@ -15,3 +15,5 @@ clothing-store/
         │   ├── navigation/ ← Stack + Tab navigators
         │   └── screens/    ← All 6 module screens
         └── App.js
+
+<img width="1092" height="473" alt="image" src="https://github.com/user-attachments/assets/85eae9a2-d9ce-4442-a66b-206af3ddeac5" />
