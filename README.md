@@ -1,19 +1,6 @@
-clothing-store/
-├── backend/              ← Node.js + Express API
-│   ├── config/           ← DB & Cloudinary config
-│   ├── controllers/      ← Business logic (6 controllers)
-│   ├── middleware/        ← JWT auth middleware
-│   ├── models/           ← Mongoose schemas (5 models)
-│   ├── routes/           ← API routes (6 route files)
-│   ├── server.js
-│   └── .env.example
-└── frontend/
-    └── ClothingStoreApp/ ← React Native (Expo)
-        ├── src/
-        │   ├── api/        ← Axios API calls
-        │   ├── context/    ← AuthContext (JWT state)
-        │   ├── navigation/ ← Stack + Tab navigators
-        │   └── screens/    ← All 6 module screens
-        └── App.js
+Online Clothing Store Management System
+SE2020 – Web and Mobile Technologies | Group Assignment
+Stack: React Native + Node.js + Express.js + MongoDB
 
+<img width="680" height="437" alt="image" src="https://github.com/user-attachments/assets/0124d968-a14e-4d9e-bc58-8e8129f1f565" />
 <img width="1092" height="473" alt="image" src="https://github.com/user-attachments/assets/85eae9a2-d9ce-4442-a66b-206af3ddeac5" />
